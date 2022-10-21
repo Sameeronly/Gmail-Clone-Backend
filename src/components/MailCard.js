@@ -443,19 +443,7 @@ function MailCard() {
           }
           {
             welcome && <>
-              <div className = "noMail">
-                <div className = "noMailContainer">
-                  <img 
-                  src = "https://media3.giphy.com/media/lSCLYbVra2E1Z6eJ12/giphy.gif"
-                  alt = ""
-                />
-                <h3>To compose mail click on the <span>
-                  <img 
-                    src = "https://www.gstatic.com/images/icons/material/colored_icons/1x/create_32dp.png"
-                    alt = "compose"
-                  /> </span>icon in sidebar</h3>
-                </div> 
-              </div>
+              
             </>
           }
            
