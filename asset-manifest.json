@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Gmail-Clone-Backend/static/css/main.ef75f8ed.chunk.css",
+    "main.js": "/Gmail-Clone-Backend/static/js/main.0fe17d93.chunk.js",
+    "main.js.map": "/Gmail-Clone-Backend/static/js/main.0fe17d93.chunk.js.map",
+    "runtime-main.js": "/Gmail-Clone-Backend/static/js/runtime-main.75a1c186.js",
+    "runtime-main.js.map": "/Gmail-Clone-Backend/static/js/runtime-main.75a1c186.js.map",
+    "static/css/2.f83b9687.chunk.css": "/Gmail-Clone-Backend/static/css/2.f83b9687.chunk.css",
+    "static/js/2.2eebd83a.chunk.js": "/Gmail-Clone-Backend/static/js/2.2eebd83a.chunk.js",
+    "static/js/2.2eebd83a.chunk.js.map": "/Gmail-Clone-Backend/static/js/2.2eebd83a.chunk.js.map",
+    "index.html": "/Gmail-Clone-Backend/index.html",
+    "static/css/2.f83b9687.chunk.css.map": "/Gmail-Clone-Backend/static/css/2.f83b9687.chunk.css.map",
+    "static/css/main.ef75f8ed.chunk.css.map": "/Gmail-Clone-Backend/static/css/main.ef75f8ed.chunk.css.map",
+    "static/js/2.2eebd83a.chunk.js.LICENSE.txt": "/Gmail-Clone-Backend/static/js/2.2eebd83a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Gmail-Clone-Backend/static/media/bgimg2.b46e8c79.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75a1c186.js",
+    "static/css/2.f83b9687.chunk.css",
+    "static/js/2.2eebd83a.chunk.js",
+    "static/css/main.ef75f8ed.chunk.css",
+    "static/js/main.0fe17d93.chunk.js"
+  ]
+}
