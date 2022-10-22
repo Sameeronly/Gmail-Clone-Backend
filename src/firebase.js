@@ -1,8 +1,5 @@
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+import firebase from 'firebase';
 
-import firebase from 'firebase'
-
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyBcFRAK-gZGr3HywYjRNrqLtKZ2Ub2yNds",
   authDomain: "fir-cab43.firebaseapp.com",
